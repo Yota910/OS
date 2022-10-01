@@ -1,10 +1,10 @@
 <ol>
   <li>サーバーの接続状況を示すアイコン<br>
-  <img src="./img1.png" width=500><br>
+  <img src="./img1.png" width=400><br>
   上側が接続時のアイコン、下側が未接続時のアイコン</li><br>
   
   <li>時間帯を示すアイコン<br>
-  <img src="./img2.png" width=500>
+  <img src="./img2.png" width=400>
   <ul>
     <li>午前中の時間帯(6時~12時)はオレンジ色に光る太陽のアイコン</li>
     <li>お昼の時間帯(12時~13時)は青色の弁当のアイコン</li>
