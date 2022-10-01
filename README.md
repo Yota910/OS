@@ -2,6 +2,7 @@
 <li>サーバーの接続状況を示すアイコン<br>
 <img src="./img1.png" width=500><br>
 上側が接続時のアイコン、下側が未接続時のアイコン</li>
+
 <li>時間帯を示すアイコン<br>
 <img src="./img2.png" width=500>
 <ul>
